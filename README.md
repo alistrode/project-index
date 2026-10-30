@@ -4,10 +4,10 @@
 
 ## 项目地图
 
-- [随手剪贴板（Clipboard Local）](#clipboard) — 自定义交互的无容量限制剪贴板。
+- [随手剪贴板（Clipboard Local）](#clipboard) — 自定义交互的无限容量剪贴板。
 - [项目总管（Project Manager）](#project-manager) — 多主机和仓库和云端的统一项目和会话管理。
 - [资料调研助手（ResearchDesk）](#researchdesk) — 接入大部分主要平台的检索与研究报告工具。
-- [提示词调优助手（PromptLab）](#promptlab) — 基于样例评测与人工采纳的提示词自动调优。
+- [提示词调优助手（PromptLab）](#promptlab) — 评测后提示词自动调优。
 - [AI 分工协作台（AgentHub）](#agenthub) — 支持角色分工、阶段恢复与人工审核的多 AI 协作。
 - [一体工作台（WorkDesk）](#workdesk) — 整合调研、提示词优化、AI 协作与设备工具的桌面工作入口。
 - [多平台发布管家（OmniDispatch）](#omnidispatch) — 多平台账号、素材自动定时发布系统。
