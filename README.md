@@ -1,20 +1,20 @@
-# alistrode 项目索引
+# alistrode 项目索引 · Project Index
 
 本页介绍 alistrode 各项目的定位、主要功能、分发包与代码来源。更新日期：2026-10-30。
 
 ## 项目地图
 
-- [随手剪贴板（Clipboard Local）](#clipboard) — 自定义交互的无容量限制剪贴板。
-- [项目总管（Project Manager）](#project-manager) — 多主机和仓库和云端的统一项目和会话管理。
-- [资料调研助手（ResearchDesk）](#researchdesk) — 接入大部分主要平台的检索与研究报告工具。
-- [提示词调优助手（PromptLab）](#promptlab) — 基于样例评测与人工采纳的提示词自动调优。
-- [AI 分工协作台（AgentHub）](#agenthub) — 支持角色分工、阶段恢复与人工审核的多 AI 协作。
+- [随手剪贴板（Clipboard Local）](#clipboard) — 可自定义交互的本地剪贴板历史管理工具。
+- [项目总管（Project Manager）](#project-manager) — 跨目录与主机的项目资料及 AI 会话索引管理工具。
+- [资料调研助手（ResearchDesk）](#researchdesk) — 多来源公开资料检索与本地 AI 研究报告工具。
+- [提示词调优助手（PromptLab）](#promptlab) — 基于样例评测与人工采纳的本地提示词优化工具。
+- [AI 分工协作台（AgentHub）](#agenthub) — 支持角色分工、阶段恢复与人工审核的本地 AI 协作工具。
 - [一体工作台（WorkDesk）](#workdesk) — 整合调研、提示词优化、AI 协作与设备工具的桌面工作入口。
-- [多平台发布管家（OmniDispatch）](#omnidispatch) — 多平台账号、素材自动定时发布系统。
-- [跨设备文件桥（File Bridge）](#file-bridge) — 消息和文件通过网页在不同主机传输。
+- [多平台发布管家（OmniDispatch）](#omnidispatch) — 多平台账号、素材与定时发布任务管理系统。
+- [跨设备文件桥（File Bridge）](#file-bridge) — 基于统一网页入口的跨设备文字、图片及文件传输工具。
 - [网页 GPT 本机工具站（DevSpace VM）](#devspace-vm) — 通过授权 MCP 接口连接 ChatGPT 与本机开发环境的工具服务。
-- [虚拟机多桌面工作台（VM Unified GUI）](#vm-unified-gui) —  Ubuntu 虚拟机的多容器只使用一个统一图形界面和桌面。
-- [代码图谱分块库（Elixir SQLite Chunker）](#elixir-sqlite-chunker) — 连接 Elixir 函数块、SQLite 存储与图谱节点的代码编辑ai工具。
+- [虚拟机多桌面工作台（VM Unified GUI）](#vm-unified-gui) — 面向 Ubuntu 虚拟机的多容器图形应用与桌面整合环境。
+- [代码图谱分块库（Elixir SQLite Chunker）](#elixir-sqlite-chunker) — 连接 Elixir 函数块、SQLite 存储与图谱节点的代码管理服务。
 - [远程电脑连接器 3.0（SSH Relay 3.0）](#ssh-relay-3.0) — 集成 MCP 工具的公网 SSH 中继与远程操作程序。
 - [远程电脑连接器 5.7（SSH Relay Pro 5.7）](#ssh-relay-5.7) — 支持设备配对、任务恢复与云端运行的远程电脑操作程序。
 - [远程电脑连接器 5.8（SSH Relay Pro 5.8）](#ssh-relay-5.8) — SSH Relay 系列的后续远程连接版本。
